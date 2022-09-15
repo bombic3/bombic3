@@ -6,7 +6,7 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbhs0906&count_bg=%2304DFBF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br><br>
 
- # 👩🏻‍💻 TECH STACK 💫✨
+ # ⭐️⭐️⭐️ TECH STACK ⭐️⭐️⭐️
  
  <a href="" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/></a>
  <a href="" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/></a>
@@ -18,8 +18,8 @@
   <br/>
   
 
- <-- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> -->
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+ <!-- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> -->
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
  <br />
