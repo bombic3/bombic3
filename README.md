@@ -1,4 +1,7 @@
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=BOMBI%20PLACE&fontAlign=70&stroke=00FF00&strokeWidth=3) -->
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=BOMBI%20PLACE&fontAlign=70&stroke=00FF00&strokeWidth=3)
 <div align="center">
 
